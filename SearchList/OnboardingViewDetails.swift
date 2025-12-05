@@ -1,0 +1,18 @@
+//
+//  OnboardingViewDetails.swift
+//  SearchList
+//
+//  Created by Alberto Garza on 23.11.25.
+//
+
+import SwiftUI
+
+struct OnboardingViewDetails: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    OnboardingViewDetails()
+}

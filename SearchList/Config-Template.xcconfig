@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  SearchList
+//
+//  Created by Alberto Garza on 30.11.25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+SPOONCULAR_API_KEY = 46395bed355449218e9a8a05ee4dfb81
